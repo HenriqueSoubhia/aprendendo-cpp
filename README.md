@@ -1,6 +1,8 @@
 # Aprendendo C++ com Bro Code
 Este repositório contém os exemplos e projetos que desenvolvi ao aprender C++ com os vídeos do canal Bro Code no YouTube.
 
+![icone do c++](cpp.jpg)
+
 ## Descrição
 Neste repositório, você encontrará os códigos-fonte e projetos que acompanham as lições de C++ ministradas por Bro Code. O objetivo deste repositório é fornecer uma referência prática e uma coleção de exercícios para auxiliar no aprendizado da linguagem C++.
 
